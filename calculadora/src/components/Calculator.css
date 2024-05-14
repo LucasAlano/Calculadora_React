@@ -1,0 +1,18 @@
+.calculator {
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  padding: 20px;
+  width: fit-content;
+  height: fit-content;
+  background-color: #f3f3f3; 
+}
+
+.buttons {
+  display: flex;
+  flex-direction: column; 
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+}
